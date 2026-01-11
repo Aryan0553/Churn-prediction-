@@ -67,8 +67,9 @@ Environment: Jupyter Notebook
 Algorithm Used: Random Forest Classifier
 Accuracy: ~78–82% (may vary based on random state and preprocessing)
 Strong performance in identifying high-risk churn customers
+---
 
-8.💡 Key Insights
+## 8.💡 Key Insights
 Customers with short tenure are more likely to churn
 High monthly charges increase churn probability
 Long-term contracts significantly reduce churn
