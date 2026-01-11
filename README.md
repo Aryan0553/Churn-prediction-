@@ -51,7 +51,8 @@ Precision, Recall, F1-score
 Confusion matrix
 Visualization
 2D plots for churn insights
-3D visualization for multivariate analysis
+3D visualization for Insights
+lysis
 --- 
 
 ## 6.📊 Visualizations Included
@@ -69,8 +70,7 @@ Accuracy: ~78–82% (may vary based on random state and preprocessing)
 Strong performance in identifying high-risk churn customers
 ---
 
-## 8.💡 Key Insights
-Customers with short tenure are more likely to churn
+## 8.💡 Key InsiPerformancetomers with short tenure are more likely to churn
 High monthly charges increase churn probability
 Long-term contracts significantly reduce churn
 Tenure and monthly charges are among the most influential features
