@@ -10,7 +10,6 @@ Identify key factors influencing customer churn
 Evaluate model performance using accuracy and classification metrics
 Provide insights to support customer retention strategies
 ---
-
 ## 3.📂 Dataset
 Source: Kaggle – Telco Customer Churn Dataset
 Records: 7,000+ customers
