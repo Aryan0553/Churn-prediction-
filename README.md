@@ -2,6 +2,7 @@
 Customer churn is a major challenge for telecom companies, leading to revenue loss and reduced customer lifetime value.
 This project builds a machine learning classification model to predict whether a customer is likely to churn based on demographic details, service usage, and billing information.
 The project follows an end-to-end data science workflow, from data preprocessing and exploratory data analysis (EDA) to model training, evaluation, and visualization.
+
 ---
 
 ## 2.🎯 Objective
