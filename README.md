@@ -74,4 +74,3 @@ Strong performance in identifying high-risk churn customers
 High monthly charges increase churn probability
 Long-term contracts significantly reduce churn
 Tenure and monthly charges are among the most influential features
-
